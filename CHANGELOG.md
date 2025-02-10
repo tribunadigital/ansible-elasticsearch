@@ -1,5 +1,9 @@
 # Changelog
 
+## 7.17.27
+
+* 7.17.27 as default version.
+
 ## 7.17.23
 
 * 7.17.23 as default version.
